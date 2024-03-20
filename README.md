@@ -8,7 +8,7 @@ To write a program to implement the the Logistic Regression Using Gradient Desce
 2. Anaconda – Python 3.7 Installation / Jupyter notebook
 
 ## Algorithm
-1. Import the required libraries.
+1.Import the required libraries.
 
 2.Load the dataset.
    
@@ -194,34 +194,34 @@ np.mean(predict(res.x,X)==y)
 
 ## OUTPUT:
 
-Array Value of x
+               Array Value of x
 ![10](https://github.com/RITHISHlearn/-Implementation-of-Logistic-Regression-Using-Gradient-Descent/assets/145446645/7231c9ad-17d3-4659-bbad-7740d6f90abc)
 
-Array Value of y
+               Array Value of y
 ![9](https://github.com/RITHISHlearn/-Implementation-of-Logistic-Regression-Using-Gradient-Descent/assets/145446645/f4b2050d-8891-4f66-91e9-f249ee4d5cc0)
 
-Exam 1 - score graph
+                   Exam 1 - score graph
 ![8](https://github.com/RITHISHlearn/-Implementation-of-Logistic-Regression-Using-Gradient-Descent/assets/145446645/7818182a-05b3-4a33-9ec2-6dbfe2d6b609)
 
-Sigmoid function graph
+                 Sigmoid function graph
 ![7](https://github.com/RITHISHlearn/-Implementation-of-Logistic-Regression-Using-Gradient-Descent/assets/145446645/b5bc2990-8b00-4fa2-9592-28a0405f41a6)
 
-X_train_grad value
+               X_train_grad value
 ![6](https://github.com/RITHISHlearn/-Implementation-of-Logistic-Regression-Using-Gradient-Descent/assets/145446645/6136dfc2-3706-48da-80db-feed1ea47946)
 
-Y_train_grad value
+             Y_train_grad value
 ![5](https://github.com/RITHISHlearn/-Implementation-of-Logistic-Regression-Using-Gradient-Descent/assets/145446645/74f26772-6fe0-423f-8a43-ada42225b7d4)
 
-Print res.x
+                    Print res.x
 ![4](https://github.com/RITHISHlearn/-Implementation-of-Logistic-Regression-Using-Gradient-Descent/assets/145446645/d2f33050-7c4e-4224-96fa-c9bdb04a400f)
 
-Decision boundary - graph for exam score
+             Decision boundary - graph for exam score
 ![3](https://github.com/RITHISHlearn/-Implementation-of-Logistic-Regression-Using-Gradient-Descent/assets/145446645/8ee1ad97-4a1e-4b67-b18f-d7f69b99ceb1)
 
-Proability value
+               Proability value
 ![2](https://github.com/RITHISHlearn/-Implementation-of-Logistic-Regression-Using-Gradient-Descent/assets/145446645/37344dc5-bc0f-4210-84ca-9e74d8fac581)
 
-Prediction value of mean
+               Prediction value of mean
 ![1](https://github.com/RITHISHlearn/-Implementation-of-Logistic-Regression-Using-Gradient-Descent/assets/145446645/469742fc-2b97-498c-9993-ab13c37cb606)
 
 
