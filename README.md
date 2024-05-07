@@ -30,8 +30,8 @@ RegisterNumber:  212223230173
 */
 ```
 
-## Output:
- import numpy as np
+ 
+import numpy as np
  
 import matplotlib.pyplot as plt
 
