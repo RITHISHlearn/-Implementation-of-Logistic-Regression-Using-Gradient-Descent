@@ -28,7 +28,7 @@ Program to implement the the Logistic Regression Using Gradient Descent.
 Developed by: RITHISH P
 RegisterNumber:  212223230173
 */
-```
+
 
  
 import numpy as np
@@ -191,6 +191,7 @@ def predict(theta,X):
     return (prob>=0.5).astype(int)
     
 np.mean(predict(res.x,X)==y)
+```
 
 ## OUTPUT:
 
